@@ -10,5 +10,5 @@ npm-debug.log
 .idea
 
 # ignore lock files
- package-lock.json
- yarn.lock
+yarn.lock
+package-lock.json

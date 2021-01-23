@@ -1,6 +1,7 @@
 //entry point of the file
 import React from 'react'
 import ReactDOM from 'react-dom'
+import './styles.css'
 
 //create APP component
 
